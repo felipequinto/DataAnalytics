@@ -1,5 +1,4 @@
 <h1>DataAnalytics</h1>
-### Códigos estudos Data Analytics
 
 ### Coleção de projetos básicos desenvolvidos para estudos.
 
